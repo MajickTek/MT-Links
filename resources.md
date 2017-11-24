@@ -32,3 +32,21 @@ http://www.gametutorial.net
 
 http://www3.ntu.edu.sg/home/ehchua/programming/java/J8d_Game_Framework.html
 
+https://susestudio.com
+
+https://developers.google.com/blockly/
+
+https://blockly-demo.appspot.com/static/demos/blockfactory/index.html
+
+https://material.io
+
+https://material.io/icons/
+
+https://blockly-demo.appspot.com/static/demos/index.html
+
+https://www.fra.me
+
+http://www.cameyo.com
+
+https://www.rollapp.com
+
