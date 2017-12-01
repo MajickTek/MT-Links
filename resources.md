@@ -37,27 +37,22 @@ https://gamedevelopment.tutsplus.com/tutorials/create-custom-binary-file-formats
 
 https://gamedevelopment.tutsplus.com/tutorials/how-to-read-and-write-binary-data-for-your-custom-file-formats--gamedev-12159?_ga=2.43795815.312157400.1512155176-34166256.1509305174
 
+https://www.bforartists.de
 
-## Other
+## Sounds / Graphics
 
 http://www.siue.edu/_global/weblibrary/sounds/
 
 http://amath.colorado.edu/pub/mac/programs/
 
-https://linuxzoo.net
+https://susestudio.com
 
 http://www.reinerstilesets.de
-
-https://www.bforartists.de
-
-https://susestudio.com
 
 https://material.io
 
 https://material.io/icons/
 
-https://www.fra.me
+http://iconhot.com
 
-http://www.cameyo.com
-
-https://www.rollapp.com
+http://game-icons.net
