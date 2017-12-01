@@ -51,3 +51,11 @@ http://www.cameyo.com
 https://www.rollapp.com
 
 http://www.flipcode.com
+
+https://gamedevelopment.tutsplus.com/tutorials/how-to-use-bsp-trees-to-generate-game-maps--gamedev-12268
+
+https://gamedevelopment.tutsplus.com/tutorials/create-custom-binary-file-formats-for-your-games-data--gamedev-206
+
+https://gamedevelopment.tutsplus.com/tutorials/how-to-read-and-write-binary-data-for-your-custom-file-formats--gamedev-12159?_ga=2.43795815.312157400.1512155176-34166256.1509305174
+
+
