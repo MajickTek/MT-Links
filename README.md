@@ -8,6 +8,7 @@ https://majicktek.blogspot.com - blog (mostly dead)
 
 https://www.youtube.com/channel/UCWgwglC1_zvh5sBgXhCWzPw - youtube channel
 
+https://majicktek.itch.io - Our games on Itch.io
 ~~~~
 javascript:(function(){jQuery('[id^=UnsubscribeItemBtn]').map(function(){this.click()})})()
 ~~~~
