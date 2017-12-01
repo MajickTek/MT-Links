@@ -1,20 +1,7 @@
 # Resources
 
-http://www.siue.edu/_global/weblibrary/sounds/
-
-http://amath.colorado.edu/pub/mac/programs/
-
+## Programming / Game Developement
 https://www.scratchapixel.com
-
-https://linuxzoo.net
-
-https://www.blender.org
-
-https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Create_IsoCam
-
-http://www.reinerstilesets.de
-
-https://www.bforartists.de
 
 https://breadcrumbsinteractive.com/two-unity-tricks-isometric-games/
 
@@ -32,25 +19,17 @@ http://www.gametutorial.net
 
 http://www3.ntu.edu.sg/home/ehchua/programming/java/J8d_Game_Framework.html
 
-https://susestudio.com
-
 https://developers.google.com/blockly/
 
 https://blockly-demo.appspot.com/static/demos/blockfactory/index.html
 
-https://material.io
-
-https://material.io/icons/
-
 https://blockly-demo.appspot.com/static/demos/index.html
 
-https://www.fra.me
-
-http://www.cameyo.com
-
-https://www.rollapp.com
-
 http://www.flipcode.com
+
+https://www.blender.org
+
+https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Create_IsoCam
 
 https://gamedevelopment.tutsplus.com/tutorials/how-to-use-bsp-trees-to-generate-game-maps--gamedev-12268
 
@@ -59,3 +38,26 @@ https://gamedevelopment.tutsplus.com/tutorials/create-custom-binary-file-formats
 https://gamedevelopment.tutsplus.com/tutorials/how-to-read-and-write-binary-data-for-your-custom-file-formats--gamedev-12159?_ga=2.43795815.312157400.1512155176-34166256.1509305174
 
 
+## Other
+
+http://www.siue.edu/_global/weblibrary/sounds/
+
+http://amath.colorado.edu/pub/mac/programs/
+
+https://linuxzoo.net
+
+http://www.reinerstilesets.de
+
+https://www.bforartists.de
+
+https://susestudio.com
+
+https://material.io
+
+https://material.io/icons/
+
+https://www.fra.me
+
+http://www.cameyo.com
+
+https://www.rollapp.com
