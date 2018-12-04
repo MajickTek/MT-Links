@@ -45,8 +45,6 @@ http://www.siue.edu/_global/weblibrary/sounds/
 
 http://amath.colorado.edu/pub/mac/programs/
 
-https://susestudio.com
-
 http://www.reinerstilesets.de
 
 https://material.io
@@ -56,3 +54,7 @@ https://material.io/icons/
 http://iconhot.com
 
 http://game-icons.net
+
+https://www.g200kg.com/jp/software/ - possibly some of the best free VSTs out there
+
+https://www.g200kg.com/jp/software/kerovee.html - absolutely the best free autotune/voice effect VST
