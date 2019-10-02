@@ -39,6 +39,8 @@ https://gamedevelopment.tutsplus.com/tutorials/how-to-read-and-write-binary-data
 
 https://www.bforartists.de
 
+https://www.azul.com/ - Open-Source Java JDK with JavaFX for Windows,macOS,and Linux
+
 ## Sounds / Graphics
 
 http://www.siue.edu/_global/weblibrary/sounds/
