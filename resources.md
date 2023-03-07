@@ -17,7 +17,7 @@ http://crunchify.com/why-and-for-what-should-i-use-enum-java-enum-examples/
 
 http://www.gametutorial.net - now at https://gametutorial.bozjatorium.com/; the original is on the web archive.
 
-http://www3.ntu.edu.sg/home/ehchua/programming/java/J8d_Game_Framework.html
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J8d_Game_Framework.html
 
 https://developers.google.com/blockly/
 
